@@ -10,6 +10,7 @@ PROJE HAKKINDA TEKNİK BİLGİLER:
 * Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
 * Projeyi 4 katman (EL,DAL,BLL,API) olarak yazdık.
 * Authorize işlemleri için JWT kullanıldı.
+
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimlerini aşağıda görebilirsiniz
 <img width="960" alt="ticket1" src="https://user-images.githubusercontent.com/73273677/222366220-bb01ebd6-0198-4f9b-8c0c-0e113af7fc75.png">
 <img width="917" alt="ticket2" src="https://user-images.githubusercontent.com/73273677/222366284-7e97cd9f-8fba-4f63-83ba-08d1e453de6b.png">

@@ -1,8 +1,7 @@
 # Ticket302_SUNUM
 
-Merhaba, Tiket302 İstanbul - Beşiktaş Wissen Akademi'de Eğitmenlik yaptığım süreçte 302 sınıfım ile yazdık. İstanbulKart uygulamasından esinlenerek oluşturduğumuz bu projede üye akbilini kaydedip bakiyesini görebilecek ve talimat yükleyebilecektir. Asli amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
+Merhaba, Tiket302 İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptığım süreçte yazdık. İstanbulKart uygulamasından esinlenerek oluşturduğumuz bu projede üye akbilini kaydedip bakiyesini görebilecek ve talimat yükleyebilecektir. Asli amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
 
-Bu projenin tüm hakları ben Betül Akşan'a, 302 sabah grubu sınıfımın öğrencilerine aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
 PROJE HAKKINDA TEKNİK BİLGİLER:
 * Proje Visual Studio .Net 6 ASP.NET MVC CORE API ile yazıldı.
